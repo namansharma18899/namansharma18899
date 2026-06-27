@@ -1,25 +1,26 @@
-  ### Hello World!  <img src="https://raw.githubusercontent.com/namansharma18899/namansharma18899/main/assets/Hi.gif" width="29px">
+  ### Hello World! 
 <!-- [![Linkedin](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/namansh99)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:namansharma18899@gmail.com) -->
 
 I'm Naman Sharma — SME at Red Hat, OpenShift team. I gravitate toward backend systems and cloud-native infra, and I learn best by tearing things apart and rebuilding them.
+&nbsp;
 
-### Talking about Personal Stuffs:
+**Talking about Personal Stuffs:**
+
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/namansharma18899/namansharma18899/main/assets/giphy.gif" />
 
-- 🔭 I’m currently working as a Software Engineer at Red Hat in Openshift 
+- 🔭 I’m currently working as a Software Engineer at Red Hat
 - 🌱 I’m currently learning about Cloud Native Technologies and System Design
 - 📖 I'm currently reading [System Design Interview](https://www.amazon.in/System-Design-Interview-insiders-Second/dp/B08CMF2CQF) by Alex Xu ( 40 % )
 - 🎬 I'm currently watching [Succession Season 4](https://www.imdb.com/title/tt7660850/) 
 
 - 🛠 I'm currently building 
     - [VanaVie](https://github.com/namansharma18899/VanaVie) (Arcade Game)
-    - [Kubernetes Controller](https://github.com/namansharma18899/Kubernetes-Controller) (Kubernetes Controller)
+    - [Kafka from scratch](https://github.com/namansharma18899/kafka-from-scratch) (Kafka from scratch)
     - [PacketLens](https://github.com/namansharma18899/PacketLens) (Network Packet Analyzer)
 - 🍁 Fun fact: I use all my IDE's with Vim extensions on top of it.
 
-### 📫 Feel free to connect: 
-
+**Feel free to connect:** 
 
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/namansh99/)  &nbsp; <a href="mailto:namansharma18899@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>  &nbsp;  [<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="3.5%"/>](https://steamcommunity.com/profiles/76561198800255749/) 
   
