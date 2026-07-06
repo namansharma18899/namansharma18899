@@ -9,10 +9,9 @@ I'm Naman Sharma — SME at Red Hat, OpenShift team. I gravitate toward backend 
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/namansharma18899/namansharma18899/main/assets/giphy.gif" />
 
-- 🔭 I’m currently working as a Software Engineer at Red Hat
-- 🌱 I’m currently learning about Cloud Native Technologies and System Design
-- 📖 I'm currently reading [System Design Interview](https://www.amazon.in/System-Design-Interview-insiders-Second/dp/B08CMF2CQF) by Alex Xu ( 40 % )
-- 🎬 I'm currently watching [Succession Season 4](https://www.imdb.com/title/tt7660850/) 
+- 🔭 I am working as a Software Engineer at Red Hat
+- 🌱 Currently learning about Cloud Native Technologies and System Design
+- 📖 Currently reading [System Design Interview](https://www.amazon.in/System-Design-Interview-insiders-Second/dp/B08CMF2CQF) by Alex Xu ( 40 % )
 
 - 🛠 I'm currently building 
     - [VanaVie](https://github.com/namansharma18899/VanaVie) (Arcade Game)
