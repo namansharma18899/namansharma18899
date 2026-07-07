@@ -2,7 +2,7 @@
 <!-- [![Linkedin](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/namansh99)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:namansharma18899@gmail.com) -->
 
-I'm Naman Sharma — SME at Red Hat, OpenShift team. I gravitate toward backend systems and cloud-native infra, and I learn best by tearing things apart and rebuilding them.
+I'm Naman Sharma — I like backend systems, cloud-native infra and I learn best by tearing things apart and rebuilding them...
 &nbsp;
 
 **Talking about Personal Stuffs:**
